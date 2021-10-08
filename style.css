@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.question-block {
+  padding: 1em;
+}
+.option {
+  padding-top: 1em;
+}
